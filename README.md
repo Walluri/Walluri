@@ -1,4 +1,4 @@
-Hi 👋  I’m @Walluri.
+Hi 👋  I’m @Walluri. [Valluri Veeravenkata Satyaprakash]
 - 👀 I’m interested in learning new technologies surrounding the web.
 - 🌱 I’m currently improving myself day by day in HTML, CSS and Javascript. I am also working in the latest frameworks ReactJS.
 - 💞️ I have submitted a few github issues proposing changes also in mdn.
